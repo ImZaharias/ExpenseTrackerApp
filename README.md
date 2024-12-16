@@ -18,12 +18,12 @@ Features 🌟
 * Persistent data storage using MySQL.
 
 Technology Stack 🛠️
-Backend:
+#Backend:
 * Java: Core programming language.
 * JavaFX: For building the graphical user interface (GUI).
 * MySQL: Relational database for expense storage.
 * JDBC: For database connectivity.
-Frontend:
+#Frontend:
 * FXML: For defining the UI layout.
 
 Setup and Deployment 🚀
