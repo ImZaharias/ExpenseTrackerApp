@@ -1,14 +1,34 @@
-# ExpenseTrackApp
-Description
-The Expense Tracker App is a JavaFX-based desktop application integrated with MySQL, designed to help users manage and track their daily expenses efficiently. The application features a robust set of functionalities including adding, updating, deleting, and searching for expenses, making it a comprehensive tool for personal finance management.The app also includes a registration and login system to secure user data.
+# Expense Tracker Application
+Overview 📘
+The Expense Tracker Application is a Java-based desktop application that helps users manage and track their expenses. It features user authentication, expense addition, editing, deletion, and advanced filtering. The application is built using JavaFX for the user interface and MySQL for data storage.
 
-Features
-Add Expense: Easily add new expenses with detailed information including amount, category, date, and notes.
-Update Expense: Modify existing expense records to correct or update information as needed.
-Delete Expense: Remove expense records from the system when they are no longer needed.
-Search Expenses: Search for specific expenses using various criteria such as date range, category, or amount.
+Features 🌟
+1. User Authentication:
+* Login and registration system with password validation.
+* Secure credential storage in the MySQL database.
+2. Expense Management:
+* Add, edit, and delete expenses.
+* Filter and search for expenses by category, name, amount, or date.
+3. Dynamic Table View:
+* Real-time updates to the expense table.
+* Sorting and filtering features.
+4. Intuitive User Interface:
+* Built with JavaFX, offering a modern and responsive design.
+5. Database Connectivity:
+* Persistent data storage using MySQL.
 
-Technologies Used
-Frontend: JavaFX for building a modern and responsive user interface.
-Backend: Java for application logic and integration with MySQL.
-Database: MySQL for managing and storing expense data.
+Technology Stack 🛠️
+Backend:
+* Java: Core programming language.
+* JavaFX: For building the graphical user interface (GUI).
+* MySQL: Relational database for expense storage.
+* JDBC: For database connectivity.
+Frontend:
+* FXML: For defining the UI layout.
+
+Setup and Deployment 🚀
+Prerequisites:
+1. Java Development Kit (JDK): Version 8 or higher.
+2. MySQL: Installed and running.
+3. JavaFX SDK: Ensure JavaFX libraries are added to your project.
+4. IDE: IntelliJ IDEA, Eclipse, or any Java-supported IDE.
