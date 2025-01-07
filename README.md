@@ -1,4 +1,4 @@
-# Expense Tracker Application
+# Expense Tracker Application ![App Homepage](ExpenseApp.png)
 Overview 📘
 The Expense Tracker Application is a Java-based desktop application that helps users manage and track their expenses. It features user authentication, expense addition, editing, deletion, and advanced filtering. The application is built using JavaFX for the user interface and MySQL for data storage.
 
